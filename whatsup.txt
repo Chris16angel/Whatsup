@@ -19,5 +19,7 @@ public class Animal {
         animal2.sayaboutanimal();
      
 	}
+	public void animal2(){}
+	public void animal3(){}
 
 }
